@@ -25,3 +25,6 @@ const myFunction = function(){
 
 console.log(typeof anotherId);
 
+//++++++++++++++++++++++++++++++++++++++
+
+//Stack(Primitive)=Copy, Heap(Non-primitive)=Reference
